@@ -1,6 +1,6 @@
 ## freeCodeCamp JAMstack examples
 
-# 3 - Building with a static site generator
+# 3 - Building with a statsic site generator
 
 This repo holds one of a series of examples of JAMstack sites from a freeCodeCamp video. The video, "Introduction to JAMstack" is available to view for free on freeCodeCamp.
 
