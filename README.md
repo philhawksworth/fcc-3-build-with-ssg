@@ -6,7 +6,7 @@ This repo holds one of a series of examples of JAMstack sites from a freeCodeCam
 
 ## About this example
 
-The 3rd of our 6 code examples, this example builds on [example 2](https://findthat.at/jamstack/ex3) to begin generating more pages with the use of a [static site generator](https://staticgen.com?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex)
+The 3rd of our 6 code examples, this example builds on [example 2](https://findthat.at/jamstack/ex2) to begin generating more pages with the use of a [static site generator](https://staticgen.com?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex)
 
 In the video, we explore what job a static site generator does, and consider what makes a good choice of SSG for us. We'll mention a few of the popular options and describe the considerations worth keeping in mind when selecting the one that suits your project and your team. then we'll step through the abstraction of content form templates and being build and deploying our site.
 
@@ -64,4 +64,4 @@ For a better understanding of what this example is and why it exists, you can ju
 
 - [jamstack.org](https://jamstack.org?utm_source=github&utm_medium=fcc-examples-pnh&utm_campaign=devex) - More info and resources
 - [Official JAMstack slack](https://jamstack.org/slack) - conversation about JAMstack and web development (come on in!)
-- [Modern Web Development on the JAMstack, O'reilly, 2019](https://findthat.at/jamstack/book) - Book on building JAMstack. Available as a free e-book.
+- [Modern Web Development on the JAMstack, O'reilly, 2019](https://findthat.at/jamstack/book) - Book on building websites with the JAMstack. Available as a free e-book.
